@@ -1,0 +1,1 @@
+print('hiss'if input().count('ss') > 0 else 'no hiss')
