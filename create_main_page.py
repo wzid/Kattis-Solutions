@@ -39,7 +39,7 @@ tableEnd = """
 kt = Kattis(os.environ.get("K_USER"), os.environ.get("K_PASS"))
 
 with open("README.md", 'w') as obj:
-    obj.write("# King-McD Kattis Problems\n")
+    obj.write("# Cameron's Kattis Problems\n")
 
     obj.write(desc)
 

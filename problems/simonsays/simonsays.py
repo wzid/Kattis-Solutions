@@ -1,6 +1,8 @@
 n = int(input())
-
 for i in range(n):
-    s = input().split('Simon says ')
-    if s[0] == '':
-        print(s[-1])
+    l = input()
+    s = 'Simon says '
+    if l.startswith(s):
+        o = l[len(s):]
+        print(o)
+        
