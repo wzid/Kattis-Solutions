@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <!-- Load sentry as early as possible -->
-            <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" src="https://js.sentry-cdn.com/1ad5e9767ad243d396a93ef40135e743.min.js" crossorigin="anonymous" data-lazy="no"></script>
+            <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" src="https://js.sentry-cdn.com/1ad5e9767ad243d396a93ef40135e743.min.js" crossorigin="anonymous" data-lazy="no"></script>
 
-    <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" type="module">
+    <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" type="module">
         Sentry.onLoad(function() {
             Sentry.init({
                 dsn: "https://1ad5e9767ad243d396a93ef40135e743:0f66eac85d88443baa349f5bc2497f28@sentry.io/271015",
-                release: "0e8008d75fcd6bea616acbe788613cb793a948af",
+                release: "72e4891015873f833a8cbab981e3be1c4f4ab6cd",
                 environment: "edu",
                 whitelistUrls: [
                     /https?:\/\/open\.kattis\.com/                 ],
@@ -34,11 +34,11 @@
 
     <!-- Jquery and Jquery-ui -->
     <link href="/assets/4dae4ca509f9a496f941d11c8184df13/jquery-ui-dist/jquery-ui.theme.min.css" rel="stylesheet">
-    <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" src="/assets/4dae4ca509f9a496f941d11c8184df13/jquery/dist/jquery.min.js"></script>
-    <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" src="/assets/4dae4ca509f9a496f941d11c8184df13/jquery-ui-dist/jquery-ui.min.js"></script>
+    <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" src="/assets/4dae4ca509f9a496f941d11c8184df13/jquery/dist/jquery.min.js"></script>
+    <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" src="/assets/4dae4ca509f9a496f941d11c8184df13/jquery-ui-dist/jquery-ui.min.js"></script>
 
     <!-- Timezone Cookie -->
-    <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" type="module" src="/js/3a7fdc66629e3ec966d4b01848ac4ff5/modules/timezone.js"></script>
+    <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" type="module" src="/js/ba40e299193c33ec6c54bf8b96d139ff/modules/timezone.js"></script>
 
     <!-- Fonts/Icons -->
     <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -80,42 +80,11 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
 
          </style>
 
-    <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" type="text/javascript">
+    <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" type="text/javascript">
         window.page_loaded_at = new Date();
         jQuery.noConflict();
     </script>
 
-    <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" type="text/javascript">
-    jQuery.ns = function (namespace) {
-        var parts = namespace.split('.');
-        var last = window;
-        for (var i = 0; i < parts.length; i++) {
-            last = last[parts[i]] || (last[parts[i]] = {});
-        }
-        return last;
-    };
-</script>
-     <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" >
-jQuery.extend(jQuery.ns('Kattis.error'), (function () {
-    return {
-        show_msg: function (base_message, kattis_message) {
-            if (kattis_message) {
-                alert(base_message + ": " + kattis_message);
-            } else {
-                alert(base_message);
-            }
-        },
-
-        show_xhr_msg: function (elem, jqXHR) {
-            var base_message = elem.data('fail-msg');
-            var kattis_message = jqXHR.responseJSON && jqXHR.responseJSON.error &&
-                       jqXHR.responseJSON.error.message;
-            this.show_msg(base_message, kattis_message);
-        }
-    }
-})());
-</script>
- 
     
 </head>
 
@@ -137,7 +106,7 @@ jQuery.extend(jQuery.ns('Kattis.error'), (function () {
             <button class="menu_mobile_link" >
                 <i class="fas fa-bars menu_mobile_link_icon"></i>
             </button>
-            <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" type="module" src="/js/3a7fdc66629e3ec966d4b01848ac4ff5/pages/master/nav.js"></script>
+            <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" type="module" src="/js/ba40e299193c33ec6c54bf8b96d139ff/pages/master/nav.js"></script>
         </div>
         <div class="branding_border"></div>
         <div class="page_header-content">
@@ -206,7 +175,7 @@ jQuery.extend(jQuery.ns('Kattis.error'), (function () {
     </div>
 </header>
 
-<script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" type="text/javascript">
+<script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" type="text/javascript">
     jQuery(function($) {
         $('.page_header-arrow_expand_collapse').click(function() {
             $('body').toggleClass('header-collapsed');
@@ -224,7 +193,7 @@ jQuery.extend(jQuery.ns('Kattis.error'), (function () {
 
 
 <div class="top_bar ">
-    <script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" type="module" src="/js/3a7fdc66629e3ec966d4b01848ac4ff5/pages/master/top_bar.js"></script>
+    <script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" type="module" src="/js/ba40e299193c33ec6c54bf8b96d139ff/pages/master/top_bar.js"></script>
     <div class="branding_border"></div>
             <div class="top_bar-content-wrapper">
             <div class="top_bar-section top_bar-section-large">
@@ -257,7 +226,7 @@ jQuery.extend(jQuery.ns('Kattis.error'), (function () {
                                 <span class="tooltip-arrow"></span>
                                 <div class="tooltip-content tooltip-menu tooltip-top_bar">
                                     <i class="fas fa-times tooltip-close tooltip-top_bar-close"></i>
-                                    <a href="/users/cameron-kauffman" class="image_info static_link"><div class="image_info-image-container"><object data="/images/users/cameron-kauffman?v=3373b24c6372a759e00f8594eadc8dc3" type="image/jpg" alt="Cameron Kauffman" class="image_info-image image_info-image-strip image_info-image-rounded"><div class="image_info-image-overlay image_info-image-overlay-strip">CK</div><div class="image_info-image image_info-image-strip image_info-image-rounded image_info-image-icon"></div></object></div><div class="image_info-text-container"><span class="image_info-text-main image_info-text-main-user">Cameron Kauffman</span><span class="image_info-text-sub"><ul class="image_info-list-sub"><li>Score: 421.3</li><li>Rank: 1923</li></ul></span></div></a>
+                                    <a href="/users/cameron-kauffman" class="image_info static_link"><div class="image_info-image-container"><object data="/images/users/cameron-kauffman?v=3373b24c6372a759e00f8594eadc8dc3" type="image/jpg" alt="Cameron Kauffman" class="image_info-image image_info-image-strip image_info-image-rounded"><div class="image_info-image-overlay image_info-image-overlay-strip">CK</div><div class="image_info-image image_info-image-strip image_info-image-rounded image_info-image-icon"></div></object></div><div class="image_info-text-container"><span class="image_info-text-main image_info-text-main-user">Cameron Kauffman</span><span class="image_info-text-sub"><ul class="image_info-list-sub"><li>Score: 473.4</li><li>Rank: 1646</li></ul></span></div></a>
                                     <ul class="main_menu profile_menu tooltip-top_bar-item">
                                                                                     <li>
                                                 <a href="/users/cameron-kauffman/settings" class="main_menu-item main_menu-item_link profile_menu-item">
@@ -311,13 +280,13 @@ jQuery.extend(jQuery.ns('Kattis.error'), (function () {
 
 
 
-<script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" src="/assets/4dae4ca509f9a496f941d11c8184df13/moment/min/moment.min.js"></script>
-<script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" src="/assets/4dae4ca509f9a496f941d11c8184df13/bootstrap-daterangepicker/daterangepicker.js"></script>
-<script nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" src="/assets/4dae4ca509f9a496f941d11c8184df13/select2/dist/js/select2.full.min.js"></script>
+<script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" src="/assets/4dae4ca509f9a496f941d11c8184df13/moment/min/moment.min.js"></script>
+<script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" src="/assets/4dae4ca509f9a496f941d11c8184df13/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" src="/assets/4dae4ca509f9a496f941d11c8184df13/select2/dist/js/select2.full.min.js"></script>
 
 
 
 
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" nonce="90b55c09d22f93a7382eff954ffecb9389a924df2d894ac529fbeac5a51ba22b" data-cf-beacon='{"rayId":"826544be4b2b6feb","b":1,"version":"2023.10.0","token":"6651308a007d4d459b12876077322bfb"}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" nonce="2fc515bcb5f581bb5dde9176def80847297efed38b34c20fd8bf52020124b506" data-cf-beacon='{"rayId":"82743aeac8489c8e","b":1,"version":"2023.10.0","token":"6651308a007d4d459b12876077322bfb"}' crossorigin="anonymous"></script>
 </body>
 </html>
