@@ -14,15 +14,1341 @@ while preparing for competitive programming competitions.
 <tbody>
 
 <tr>
+<td>Planina</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/planina</td>
+</tr>
+
+<tr>
+<td>Planting Trees</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/plantingtrees</td>
+</tr>
+
+<tr>
+<td>Pokechat</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/pokechat</td>
+</tr>
+
+<tr>
+<td>Popcorn</td>
+<td>3.6</td>
+<td>https://open.kattis.com/problems/popkorn</td>
+</tr>
+
+<tr>
+<td>Pot</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/pot</td>
+</tr>
+
+<tr>
+<td>Power of Divisors</td>
+<td>6.1</td>
+<td>https://open.kattis.com/problems/powerofdivisors</td>
+</tr>
+
+<tr>
+<td>Preludes</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/chopin</td>
+</tr>
+
+<tr>
+<td>Prjónamynstur</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/prjonamynstur</td>
+</tr>
+
+<tr>
+<td>Product Divisors</td>
+<td>6.6</td>
+<td>https://open.kattis.com/problems/productdivisors</td>
+</tr>
+
+<tr>
+<td>Provinces and Gold</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/provincesandgold</td>
+</tr>
+
+<tr>
+<td>Ptice</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/ptice</td>
+</tr>
+
+<tr>
+<td>Quadrant Selection</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/quadrant</td>
+</tr>
+
+<tr>
+<td>Quality-Adjusted Life-Year</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/qaly</td>
+</tr>
+
+<tr>
+<td>Quick Brown Fox</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/quickbrownfox</td>
+</tr>
+
+<tr>
+<td>Quick Estimates</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/quickestimate</td>
+</tr>
+
+<tr>
+<td>R2</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/r2</td>
+</tr>
+
+<tr>
+<td>Ragged Right</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/raggedright</td>
+</tr>
+
+<tr>
+<td>Railroad</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/railroad2</td>
+</tr>
+
+<tr>
+<td>Rating Problems</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/ratingproblems</td>
+</tr>
+
+<tr>
+<td>Recount</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/recount</td>
+</tr>
+
+<tr>
+<td>Rectangle Area</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/rectanglearea</td>
+</tr>
+
+<tr>
+<td>Red Rover</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/redrover</td>
+</tr>
+
+<tr>
+<td>Relatives</td>
+<td>3.3</td>
+<td>https://open.kattis.com/problems/relatives</td>
+</tr>
+
+<tr>
+<td>Relocation</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/relocation</td>
+</tr>
+
+<tr>
+<td>Reverse</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/ofugsnuid</td>
+</tr>
+
+<tr>
+<td>Reversed Binary Numbers</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/reversebinary</td>
+</tr>
+
+<tr>
+<td>Riječi</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/rijeci</td>
+</tr>
+
+<tr>
+<td>Roaming Romans</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/romans</td>
+</tr>
+
+<tr>
+<td>Robots on a Grid</td>
+<td>5.1</td>
+<td>https://open.kattis.com/problems/robotsonagrid</td>
+</tr>
+
+<tr>
+<td>SMIL</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/smil</td>
+</tr>
+
+<tr>
+<td>Same Digits (Easy)</td>
+<td>2.3</td>
+<td>https://open.kattis.com/problems/samedigitseasy</td>
+</tr>
+
+<tr>
+<td>Saving Daylight</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/savingdaylight</td>
+</tr>
+
+<tr>
+<td>Saving For Retirement</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/savingforretirement</td>
+</tr>
+
+<tr>
+<td>School Spirit</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/schoolspirit</td>
+</tr>
+
+<tr>
+<td>Secret Message</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/secretmessage</td>
+</tr>
+
+<tr>
+<td>Secure Doors</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/securedoors</td>
+</tr>
+
+<tr>
+<td>Seven Wonders</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/sevenwonders</td>
+</tr>
+
+<tr>
+<td>Shattered Cake</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/shatteredcake</td>
+</tr>
+
+<tr>
+<td>Shopping List (Easy)</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/shoppinglisteasy</td>
+</tr>
+
+<tr>
+<td>Sibice</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/sibice</td>
+</tr>
+
+<tr>
+<td>Simon Says</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/simonsays</td>
+</tr>
+
+<tr>
+<td>Simone</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/simone</td>
+</tr>
+
+<tr>
+<td>Simple Addition</td>
+<td>2.1</td>
+<td>https://open.kattis.com/problems/simpleaddition</td>
+</tr>
+
+<tr>
+<td>Sith</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/sith</td>
+</tr>
+
+<tr>
+<td>Skammstöfun</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/skammstofun</td>
+</tr>
+
+<tr>
+<td>Skocimis</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/skocimis</td>
+</tr>
+
+<tr>
+<td>Sky Islands</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/skyislands</td>
+</tr>
+
+<tr>
+<td>Slatkisi</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/slatkisi</td>
+</tr>
+
+<tr>
+<td>Solving for Carrots</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/carrots</td>
+</tr>
+
+<tr>
+<td>Sort Two Numbers</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/sorttwonumbers</td>
+</tr>
+
+<tr>
+<td>Sort of Sorting</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/sortofsorting</td>
+</tr>
+
+<tr>
+<td>Soylent</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/soylent</td>
+</tr>
+
+<tr>
+<td>Space Race</td>
+<td>2.3</td>
+<td>https://open.kattis.com/problems/spacerace</td>
+</tr>
+
+<tr>
+<td>Spavanac</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/spavanac</td>
+</tr>
+
+<tr>
+<td>Speed Limit</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/speedlimit</td>
+</tr>
+
+<tr>
+<td>Speedrun</td>
+<td>2.3</td>
+<td>https://open.kattis.com/problems/speedrun</td>
+</tr>
+
+<tr>
+<td>Spelling Bee</td>
+<td>2.2</td>
+<td>https://open.kattis.com/problems/spellingbee</td>
+</tr>
+
+<tr>
+<td>Spritt</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/spritt</td>
+</tr>
+
+<tr>
+<td>Stacking Cups</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/cups</td>
+</tr>
+
+<tr>
+<td>Stafur</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/stafur</td>
+</tr>
+
+<tr>
+<td>Stand on Zanzibar</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/zanzibar</td>
+</tr>
+
+<tr>
+<td>Statistics</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/statistics</td>
+</tr>
+
+<tr>
+<td>Sticky Keys</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/stickykeys</td>
+</tr>
+
+<tr>
+<td>Stopwatch</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/stopwatch</td>
+</tr>
+
+<tr>
+<td>Stream Lag</td>
+<td>3.2</td>
+<td>https://open.kattis.com/problems/streamlag</td>
+</tr>
+
+<tr>
+<td>Streets Ahead</td>
+<td>2.2</td>
+<td>https://open.kattis.com/problems/streetsahead</td>
+</tr>
+
+<tr>
+<td>Stuck In A Time Loop</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/timeloop</td>
+</tr>
+
+<tr>
+<td>Subprime</td>
+<td>4.0</td>
+<td>https://open.kattis.com/problems/subprime</td>
+</tr>
+
+<tr>
+<td>Sum Kind of Problem</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/sumkindofproblem</td>
+</tr>
+
+<tr>
+<td>Sum Squared Digits Function</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/sumsquareddigits</td>
+</tr>
+
+<tr>
+<td>Sun and Moon</td>
+<td>2.1</td>
+<td>https://open.kattis.com/problems/sunandmoon</td>
+</tr>
+
+<tr>
+<td>Symmetric Order</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/symmetricorder</td>
+</tr>
+
+<tr>
+<td>Synchronizing Lists</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/synchronizinglists</td>
+</tr>
+
+<tr>
+<td>Sóttkví</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/sottkvi</td>
+</tr>
+
+<tr>
+<td>T9 Spelling</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/t9spelling</td>
+</tr>
+
+<tr>
+<td>Take Two Stones</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/twostones</td>
+</tr>
+
+<tr>
+<td>Tarifa</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/tarifa</td>
+</tr>
+
+<tr>
+<td>Temperature Confusion</td>
+<td>2.8</td>
+<td>https://open.kattis.com/problems/temperatureconfusion</td>
+</tr>
+
+<tr>
+<td>Tetration</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/tetration</td>
+</tr>
+
+<tr>
+<td>The Amazing Human Cannonball</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/humancannonball2</td>
+</tr>
+
+<tr>
+<td>The Easiest Problem Is This One</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/easiest</td>
+</tr>
+
+<tr>
+<td>The Last Problem</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/thelastproblem</td>
+</tr>
+
+<tr>
+<td>The Owl and the Fox</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/owlandfox</td>
+</tr>
+
+<tr>
+<td>The Plank</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/theplank</td>
+</tr>
+
+<tr>
+<td>This Ain't Your Grandpa's Checkerboard</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/thisaintyourgrandpascheckerboard</td>
+</tr>
+
+<tr>
+<td>Timebomb</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/timebomb</td>
+</tr>
+
+<tr>
+<td>Title Cost</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/titlecost</td>
+</tr>
+
+<tr>
+<td>Tower Construction</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/tornbygge</td>
+</tr>
+
+<tr>
+<td>Transit Woes</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/transitwoes</td>
+</tr>
+
+<tr>
+<td>Tri</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/tri</td>
+</tr>
+
+<tr>
+<td>Triangle Area</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/triarea</td>
+</tr>
+
+<tr>
+<td>Trik</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/trik</td>
+</tr>
+
+<tr>
+<td>Triple Texting</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/tripletexting</td>
+</tr>
+
+<tr>
+<td>Troll Hunt</td>
+<td>2.6</td>
+<td>https://open.kattis.com/problems/trollhunt</td>
+</tr>
+
+<tr>
+<td>Turn It Up!</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/skruop</td>
+</tr>
+
+<tr>
+<td>Two-sum</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/twosum</td>
+</tr>
+
+<tr>
+<td>Tölvunarfræðingar telja</td>
+<td>1.2</td>
+<td>https://open.kattis.com/problems/tolvunarfraedingartelja</td>
+</tr>
+
+<tr>
+<td>Ultimate Binary Watch</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/ultimatebinarywatch</td>
+</tr>
+
+<tr>
+<td>Umferð</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/umferd</td>
+</tr>
+
+<tr>
+<td>Un-bear-able Zoo</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/zoo</td>
+</tr>
+
+<tr>
+<td>3D Printed Statues</td>
+<td>2.9</td>
+<td>https://open.kattis.com/problems/3dprinter</td>
+</tr>
+
+<tr>
+<td>99 Problems</td>
+<td>2.8</td>
+<td>https://open.kattis.com/problems/99problems</td>
+</tr>
+
+<tr>
+<td>A Furious Cocktail</td>
+<td>2.9</td>
+<td>https://open.kattis.com/problems/cocktail</td>
+</tr>
+
+<tr>
+<td>A Multiplication Game</td>
+<td>4.8</td>
+<td>https://open.kattis.com/problems/amultiplicationgame</td>
+</tr>
+
+<tr>
+<td>A Pivotal Question</td>
+<td>3.6</td>
+<td>https://open.kattis.com/problems/apivotalquestion</td>
+</tr>
+
+<tr>
+<td>A Real Challenge</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/areal</td>
+</tr>
+
+<tr>
+<td>ASCII kassi</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/asciikassi</td>
+</tr>
+
+<tr>
+<td>Aaah!</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/aaah</td>
+</tr>
+
+<tr>
+<td>Above Average</td>
+<td>2.5</td>
+<td>https://open.kattis.com/problems/aboveaverage</td>
+</tr>
+
+<tr>
+<td>Add Two Numbers</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/addtwonumbers</td>
+</tr>
+
+<tr>
+<td>Adding Trouble</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/addingtrouble</td>
+</tr>
+
+<tr>
+<td>Almost Sorted</td>
+<td>8.6</td>
+<td>https://open.kattis.com/problems/almostsorted2</td>
+</tr>
+
+<tr>
+<td>Alphabet Spam</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/alphabetspam</td>
+</tr>
+
+<tr>
+<td>Amerískur vinnustaður</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/ameriskur</td>
+</tr>
+
+<tr>
+<td>Another Candies</td>
+<td>2.9</td>
+<td>https://open.kattis.com/problems/anothercandies</td>
+</tr>
+
+<tr>
+<td>Apaxiaaaaaaaaaaaans!</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/apaxiaaans</td>
+</tr>
+
+<tr>
+<td>Arithmetic Functions</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/arithmeticfunctions</td>
+</tr>
+
+<tr>
+<td>Arrangement</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/upprodun</td>
+</tr>
+
+<tr>
+<td>Array Smoothening</td>
+<td>2.3</td>
+<td>https://open.kattis.com/problems/arraysmoothening</td>
+</tr>
+
+<tr>
+<td>Attendance</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/attendance2</td>
+</tr>
+
+<tr>
+<td>Autori</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/autori</td>
+</tr>
+
+<tr>
+<td>Average Character</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/averagecharacter</td>
+</tr>
+
+<tr>
+<td>Avion</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/avion</td>
+</tr>
+
+<tr>
+<td>Babelfish</td>
+<td>2.8</td>
+<td>https://open.kattis.com/problems/babelfish</td>
+</tr>
+
+<tr>
+<td>Bachet's Game</td>
+<td>3.8</td>
+<td>https://open.kattis.com/problems/bachetsgame</td>
+</tr>
+
+<tr>
+<td>Backspace</td>
+<td>2.4</td>
+<td>https://open.kattis.com/problems/backspace</td>
+</tr>
+
+<tr>
+<td>Bacon, Eggs, and Spam</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/baconeggsandspam</td>
+</tr>
+
+<tr>
+<td>Bannorð</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/bannord</td>
+</tr>
+
+<tr>
+<td>Basketball One-on-One</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/basketballoneonone</td>
+</tr>
+
+<tr>
+<td>Batter Up</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/batterup</td>
+</tr>
+
+<tr>
+<td>Bela</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/bela</td>
+</tr>
+
+<tr>
+<td>Betting</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/betting</td>
+</tr>
+
+<tr>
+<td>Biased Standings</td>
+<td>3.9</td>
+<td>https://open.kattis.com/problems/standings</td>
+</tr>
+
+<tr>
+<td>Bijele</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/bijele</td>
+</tr>
+
+<tr>
+<td>Birthday Memorization</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/fodelsedagsmemorisering</td>
+</tr>
+
+<tr>
+<td>Blueberry Waffle</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/blueberrywaffle</td>
+</tr>
+
+<tr>
+<td>Boat Parts</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/boatparts</td>
+</tr>
+
+<tr>
+<td>Booking a Room</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/bookingaroom</td>
+</tr>
+
+<tr>
+<td>Boss Battle</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/bossbattle</td>
+</tr>
+
+<tr>
+<td>Bracket Matching</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/bracketmatching</td>
+</tr>
+
+<tr>
+<td>Branch Manager</td>
+<td>5.7</td>
+<td>https://open.kattis.com/problems/branchmanager</td>
+</tr>
+
+<tr>
+<td>Breaking Branches</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/breakingbranches</td>
+</tr>
+
+<tr>
+<td>Building Pyramids</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/pyramids</td>
+</tr>
+
+<tr>
+<td>Buka</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/buka</td>
+</tr>
+
+<tr>
+<td>CPR Number</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/cprnummer</td>
+</tr>
+
+<tr>
+<td>Canadians, eh?</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/canadianseh</td>
+</tr>
+
+<tr>
+<td>Candy Distribution</td>
+<td>3.9</td>
+<td>https://open.kattis.com/problems/candydistribution</td>
+</tr>
+
+<tr>
+<td>Candy Division</td>
+<td>3.9</td>
+<td>https://open.kattis.com/problems/candydivision</td>
+</tr>
+
+<tr>
+<td>Cetvrta</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/cetvrta</td>
+</tr>
+
+<tr>
+<td>Chanukah Challenge</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/chanukah</td>
+</tr>
+
+<tr>
+<td>Chocolate Division</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/chocolatedivision</td>
+</tr>
+
+<tr>
+<td>Class Field Trip</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/classfieldtrip</td>
+</tr>
+
+<tr>
+<td>Climbing Worm</td>
+<td>2.4</td>
+<td>https://open.kattis.com/problems/climbingworm</td>
+</tr>
+
+<tr>
+<td>Coconut Splat</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/coconut</td>
+</tr>
+
+<tr>
+<td>Coffee Cup Combo</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/coffeecupcombo</td>
+</tr>
+
+<tr>
+<td>Coin Stacks</td>
+<td>3.8</td>
+<td>https://open.kattis.com/problems/coinstacks</td>
+</tr>
+
+<tr>
+<td>Cold-puter Science</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/cold</td>
+</tr>
+
+<tr>
+<td>Coloring Socks</td>
+<td>2.3</td>
+<td>https://open.kattis.com/problems/color</td>
+</tr>
+
+<tr>
+<td>Compound Words</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/compoundwords</td>
+</tr>
+
+<tr>
+<td>Conformity</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/conformity</td>
+</tr>
+
+<tr>
+<td>Contingency Planning</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/contingencyplanning</td>
+</tr>
+
+<tr>
+<td>Cornhusker</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/cornhusker</td>
+</tr>
+
+<tr>
+<td>Cosmic Path Optimization</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/cosmicpathoptimization</td>
+</tr>
+
+<tr>
+<td>Costume Contest</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/costumecontest</td>
+</tr>
+
+<tr>
+<td>Count the Vowels</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/countthevowels</td>
+</tr>
+
+<tr>
+<td>Counting Clauses</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/countingclauses</td>
+</tr>
+
+<tr>
+<td>Counting Days</td>
+<td>2.5</td>
+<td>https://open.kattis.com/problems/countingdays</td>
+</tr>
+
+<tr>
+<td>Cracking RSA</td>
+<td>2.1</td>
+<td>https://open.kattis.com/problems/crackingrsa</td>
+</tr>
+
+<tr>
+<td>Cryptographer's Conundrum</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/conundrum</td>
+</tr>
+
+<tr>
+<td>Cudoviste</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/cudoviste</td>
+</tr>
+
+<tr>
+<td>Cut in Line</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/cutinline</td>
+</tr>
+
+<tr>
+<td>Cut the Negativity</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/cutthenegativity</td>
+</tr>
+
+<tr>
+<td>DRM Messages</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/drmmessages</td>
+</tr>
+
+<tr>
+<td>Datum</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/datum</td>
+</tr>
+
+<tr>
+<td>Daydreaming Stockbroker</td>
+<td>3.6</td>
+<td>https://open.kattis.com/problems/stockbroker</td>
+</tr>
+
+<tr>
+<td>Daylight Saving Time</td>
+<td>2.3</td>
+<td>https://open.kattis.com/problems/dst</td>
+</tr>
+
+<tr>
+<td>Death Knight Hero</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/deathknight</td>
+</tr>
+
+<tr>
+<td>Detailed Differences</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/detaileddifferences</td>
+</tr>
+
+<tr>
+<td>Dice Cup</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/dicecup</td>
+</tr>
+
+<tr>
+<td>Dice Game</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/dicegame</td>
+</tr>
+
+<tr>
+<td>Digit Product</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/sifferprodukt</td>
+</tr>
+
+<tr>
+<td>Digit Swap</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/digitswap</td>
+</tr>
+
+<tr>
+<td>Diverse Cookies</td>
+<td>3.4</td>
+<td>https://open.kattis.com/problems/diversecookies</td>
+</tr>
+
+<tr>
+<td>Divvying Up</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/divvyingup</td>
+</tr>
+
+<tr>
+<td>Double Password</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/doublepassword</td>
+</tr>
+
+<tr>
+<td>Drunk Vigenère</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/drunkvigenere</td>
+</tr>
+
+<tr>
+<td>Early Winter</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/earlywinter</td>
+</tr>
+
+<tr>
+<td>Echo Echo Echo</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/echoechoecho</td>
+</tr>
+
+<tr>
+<td>Egypt</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/egypt</td>
+</tr>
+
+<tr>
+<td>Ekki dauði opna inni</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/ekkidaudi</td>
+</tr>
+
+<tr>
+<td>Election Paradox</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/electionparadox</td>
+</tr>
+
+<tr>
+<td>Eligibility</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/eligibility</td>
+</tr>
+
+<tr>
+<td>Encoded Message</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/encodedmessage</td>
+</tr>
+
+<tr>
+<td>Erase Securely</td>
+<td>1.7</td>
+<td>https://open.kattis.com/problems/erase</td>
+</tr>
+
+<tr>
+<td>Exam</td>
+<td>2.2</td>
+<td>https://open.kattis.com/problems/exam</td>
+</tr>
+
+<tr>
+<td>Expected Earnings</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/expectedearnings</td>
+</tr>
+
+<tr>
+<td>Eye of Sauron</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/eyeofsauron</td>
+</tr>
+
+<tr>
+<td>FYI</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/fyi</td>
+</tr>
+
+<tr>
+<td>Fading Wind</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/fadingwind</td>
+</tr>
+
+<tr>
+<td>Faktor</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/faktor</td>
+</tr>
+
+<tr>
+<td>Falling Apart</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/fallingapart</td>
+</tr>
+
+<tr>
+<td>Falling Mugs</td>
+<td>3.7</td>
+<td>https://open.kattis.com/problems/falling</td>
+</tr>
+
+<tr>
+<td>Fifty Shades of Pink</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/fiftyshades</td>
+</tr>
+
+<tr>
+<td>Filip</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/filip</td>
+</tr>
+
+<tr>
+<td>Finding An A</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/findingana</td>
+</tr>
+
+<tr>
+<td>FizzBuzz</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/fizzbuzz</td>
+</tr>
+
+<tr>
+<td>Flatbökuveisla</td>
+<td>1.2</td>
+<td>https://open.kattis.com/problems/flatbokuveisla</td>
+</tr>
+
+<tr>
+<td>Flýtibaka</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/flytibaka</td>
+</tr>
+
+<tr>
+<td>Food Processor</td>
+<td>5.4</td>
+<td>https://open.kattis.com/problems/foodprocessor</td>
+</tr>
+
+<tr>
+<td>Forced Choice</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/forcedchoice</td>
+</tr>
+
+<tr>
+<td>Framtíðar FIFA</td>
+<td>1.2</td>
+<td>https://open.kattis.com/problems/fifa</td>
+</tr>
+
+<tr>
+<td>Free Food</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/freefood</td>
+</tr>
+
+<tr>
+<td>Friday the 13th</td>
+<td>2.1</td>
+<td>https://open.kattis.com/problems/friday</td>
+</tr>
+
+<tr>
+<td>GCD</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/gcd</td>
+</tr>
+
+<tr>
+<td>GCVWR</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/gcvwr</td>
+</tr>
+
+<tr>
+<td>Gandalf's Spell</td>
+<td>2.1</td>
+<td>https://open.kattis.com/problems/gandalfsspell</td>
+</tr>
+
+<tr>
+<td>Goomba Stacks</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/goombastacks</td>
+</tr>
+
+<tr>
+<td>Grade Curving</td>
+<td>4.8</td>
+<td>https://open.kattis.com/problems/gradecurving</td>
+</tr>
+
+<tr>
+<td>Grading</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/grading</td>
+</tr>
+
+<tr>
 <td>Grass Seed Inc.</td>
 <td>1.4</td>
 <td>https://open.kattis.com/problems/grassseed</td>
 </tr>
 
 <tr>
+<td>Greedily Increasing Subsequence</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/greedilyincreasing</td>
+</tr>
+
+<tr>
 <td>Greetings!</td>
 <td>1.3</td>
 <td>https://open.kattis.com/problems/greetings2</td>
+</tr>
+
+<tr>
+<td>Hanging Out on the Terrace</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/hangingout</td>
 </tr>
 
 <tr>
@@ -35,6 +1361,18 @@ while preparing for competitive programming competitions.
 <td>Harshad Numbers</td>
 <td>1.5</td>
 <td>https://open.kattis.com/problems/harshadnumbers</td>
+</tr>
+
+<tr>
+<td>Haughty Cuisine</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/haughtycuisine</td>
+</tr>
+
+<tr>
+<td>Head Guard</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/headguard</td>
 </tr>
 
 <tr>
@@ -74,9 +1412,21 @@ while preparing for competitive programming competitions.
 </tr>
 
 <tr>
+<td>Hot Hike</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/hothike</td>
+</tr>
+
+<tr>
 <td>Hraðgreining</td>
 <td>1.3</td>
 <td>https://open.kattis.com/problems/hradgreining</td>
+</tr>
+
+<tr>
+<td>Hvert Skal Mæta?</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/hvertskalmaeta</td>
 </tr>
 
 <tr>
@@ -95,6 +1445,12 @@ while preparing for competitive programming competitions.
 <td>ICPC Awards</td>
 <td>1.6</td>
 <td>https://open.kattis.com/problems/icpcawards</td>
+</tr>
+
+<tr>
+<td>Identifying Map Tiles</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/maptiles2</td>
 </tr>
 
 <tr>
@@ -122,9 +1478,21 @@ while preparing for competitive programming competitions.
 </tr>
 
 <tr>
+<td>Job Expenses</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/jobexpenses</td>
+</tr>
+
+<tr>
 <td>Judging Moose</td>
 <td>1.6</td>
 <td>https://open.kattis.com/problems/judgingmoose</td>
+</tr>
+
+<tr>
+<td>Jumbled Compass</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/compass</td>
 </tr>
 
 <tr>
@@ -137,6 +1505,12 @@ while preparing for competitive programming competitions.
 <td>Just a Minute</td>
 <td>1.9</td>
 <td>https://open.kattis.com/problems/justaminute</td>
+</tr>
+
+<tr>
+<td>Karte</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/karte</td>
 </tr>
 
 <tr>
@@ -212,6 +1586,12 @@ while preparing for competitive programming competitions.
 </tr>
 
 <tr>
+<td>Logic Functions</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/logicfunctions</td>
+</tr>
+
+<tr>
 <td>Longest Prime Sum</td>
 <td>2.4</td>
 <td>https://open.kattis.com/problems/longestprimesum</td>
@@ -224,15 +1604,33 @@ while preparing for competitive programming competitions.
 </tr>
 
 <tr>
+<td>Magic Trick</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/magictrick</td>
+</tr>
+
+<tr>
 <td>Making A Meowth</td>
 <td>1.6</td>
 <td>https://open.kattis.com/problems/makingameowth</td>
 </tr>
 
 <tr>
+<td>Marko</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/marko</td>
+</tr>
+
+<tr>
 <td>Math Homework</td>
 <td>2.0</td>
 <td>https://open.kattis.com/problems/mathhomework</td>
+</tr>
+
+<tr>
+<td>Mean Words</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/meanwords</td>
 </tr>
 
 <tr>
@@ -249,7 +1647,7 @@ while preparing for competitive programming competitions.
 
 <tr>
 <td>Millifærsla</td>
-<td>1.3</td>
+<td>1.2</td>
 <td>https://open.kattis.com/problems/millifaersla</td>
 </tr>
 
@@ -272,6 +1670,12 @@ while preparing for competitive programming competitions.
 </tr>
 
 <tr>
+<td>Mjehuric</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/mjehuric</td>
+</tr>
+
+<tr>
 <td>Moderate Pace</td>
 <td>1.6</td>
 <td>https://open.kattis.com/problems/moderatepace</td>
@@ -287,6 +1691,12 @@ while preparing for competitive programming competitions.
 <td>Monopoly</td>
 <td>1.4</td>
 <td>https://open.kattis.com/problems/monopol</td>
+</tr>
+
+<tr>
+<td>Mult!</td>
+<td>1.8</td>
+<td>https://open.kattis.com/problems/mult</td>
 </tr>
 
 <tr>
@@ -344,9 +1754,45 @@ while preparing for competitive programming competitions.
 </tr>
 
 <tr>
+<td>Oktalni</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/oktalni</td>
+</tr>
+
+<tr>
+<td>One Chicken Per Person!</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/onechicken</td>
+</tr>
+
+<tr>
+<td>Ordinals</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/ordinals</td>
+</tr>
+
+<tr>
 <td>Pachyderm Peanut Packing</td>
 <td>2.1</td>
 <td>https://open.kattis.com/problems/pachydermpeanutpacking</td>
+</tr>
+
+<tr>
+<td>Parking</td>
+<td>1.6</td>
+<td>https://open.kattis.com/problems/parking2</td>
+</tr>
+
+<tr>
+<td>Paul Eigon</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/pauleigon</td>
+</tr>
+
+<tr>
+<td>Peragrams</td>
+<td>1.9</td>
+<td>https://open.kattis.com/problems/peragrams</td>
 </tr>
 
 <tr>
@@ -368,450 +1814,6 @@ while preparing for competitive programming competitions.
 </tr>
 
 <tr>
-<td>Planina</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/planina</td>
-</tr>
-
-<tr>
-<td>Pokechat</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/pokechat</td>
-</tr>
-
-<tr>
-<td>Popcorn</td>
-<td>3.6</td>
-<td>https://open.kattis.com/problems/popkorn</td>
-</tr>
-
-<tr>
-<td>Pot</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/pot</td>
-</tr>
-
-<tr>
-<td>Power of Divisors</td>
-<td>6.1</td>
-<td>https://open.kattis.com/problems/powerofdivisors</td>
-</tr>
-
-<tr>
-<td>Prjónamynstur</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/prjonamynstur</td>
-</tr>
-
-<tr>
-<td>Product Divisors</td>
-<td>6.7</td>
-<td>https://open.kattis.com/problems/productdivisors</td>
-</tr>
-
-<tr>
-<td>Ptice</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/ptice</td>
-</tr>
-
-<tr>
-<td>Quadrant Selection</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/quadrant</td>
-</tr>
-
-<tr>
-<td>Quality-Adjusted Life-Year</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/qaly</td>
-</tr>
-
-<tr>
-<td>Quick Estimates</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/quickestimate</td>
-</tr>
-
-<tr>
-<td>R2</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/r2</td>
-</tr>
-
-<tr>
-<td>Rating Problems</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/ratingproblems</td>
-</tr>
-
-<tr>
-<td>Rectangle Area</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/rectanglearea</td>
-</tr>
-
-<tr>
-<td>Relatives</td>
-<td>3.3</td>
-<td>https://open.kattis.com/problems/relatives</td>
-</tr>
-
-<tr>
-<td>Reverse</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/ofugsnuid</td>
-</tr>
-
-<tr>
-<td>Reversed Binary Numbers</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/reversebinary</td>
-</tr>
-
-<tr>
-<td>Riječi</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/rijeci</td>
-</tr>
-
-<tr>
-<td>Roaming Romans</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/romans</td>
-</tr>
-
-<tr>
-<td>SMIL</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/smil</td>
-</tr>
-
-<tr>
-<td>Same Digits (Easy)</td>
-<td>2.3</td>
-<td>https://open.kattis.com/problems/samedigitseasy</td>
-</tr>
-
-<tr>
-<td>Saving Daylight</td>
-<td>2.0</td>
-<td>https://open.kattis.com/problems/savingdaylight</td>
-</tr>
-
-<tr>
-<td>School Spirit</td>
-<td>1.8</td>
-<td>https://open.kattis.com/problems/schoolspirit</td>
-</tr>
-
-<tr>
-<td>Secure Doors</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/securedoors</td>
-</tr>
-
-<tr>
-<td>Seven Wonders</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/sevenwonders</td>
-</tr>
-
-<tr>
-<td>Shattered Cake</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/shatteredcake</td>
-</tr>
-
-<tr>
-<td>Sibice</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/sibice</td>
-</tr>
-
-<tr>
-<td>Simon Says</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/simonsays</td>
-</tr>
-
-<tr>
-<td>Simple Addition</td>
-<td>2.1</td>
-<td>https://open.kattis.com/problems/simpleaddition</td>
-</tr>
-
-<tr>
-<td>Sith</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/sith</td>
-</tr>
-
-<tr>
-<td>Skammstöfun</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/skammstofun</td>
-</tr>
-
-<tr>
-<td>Skocimis</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/skocimis</td>
-</tr>
-
-<tr>
-<td>Sky Islands</td>
-<td>2.0</td>
-<td>https://open.kattis.com/problems/skyislands</td>
-</tr>
-
-<tr>
-<td>Solving for Carrots</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/carrots</td>
-</tr>
-
-<tr>
-<td>Sort Two Numbers</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/sorttwonumbers</td>
-</tr>
-
-<tr>
-<td>Space Race</td>
-<td>2.2</td>
-<td>https://open.kattis.com/problems/spacerace</td>
-</tr>
-
-<tr>
-<td>Spavanac</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/spavanac</td>
-</tr>
-
-<tr>
-<td>Speedrun</td>
-<td>2.3</td>
-<td>https://open.kattis.com/problems/speedrun</td>
-</tr>
-
-<tr>
-<td>Spelling Bee</td>
-<td>2.2</td>
-<td>https://open.kattis.com/problems/spellingbee</td>
-</tr>
-
-<tr>
-<td>Spritt</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/spritt</td>
-</tr>
-
-<tr>
-<td>Stacking Cups</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/cups</td>
-</tr>
-
-<tr>
-<td>Stafur</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/stafur</td>
-</tr>
-
-<tr>
-<td>Stand on Zanzibar</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/zanzibar</td>
-</tr>
-
-<tr>
-<td>Sticky Keys</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/stickykeys</td>
-</tr>
-
-<tr>
-<td>Stopwatch</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/stopwatch</td>
-</tr>
-
-<tr>
-<td>Stream Lag</td>
-<td>3.2</td>
-<td>https://open.kattis.com/problems/streamlag</td>
-</tr>
-
-<tr>
-<td>Streets Ahead</td>
-<td>2.2</td>
-<td>https://open.kattis.com/problems/streetsahead</td>
-</tr>
-
-<tr>
-<td>Stuck In A Time Loop</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/timeloop</td>
-</tr>
-
-<tr>
-<td>Subprime</td>
-<td>4.0</td>
-<td>https://open.kattis.com/problems/subprime</td>
-</tr>
-
-<tr>
-<td>Sum Kind of Problem</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/sumkindofproblem</td>
-</tr>
-
-<tr>
-<td>Sum Squared Digits Function</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/sumsquareddigits</td>
-</tr>
-
-<tr>
-<td>Sun and Moon</td>
-<td>2.1</td>
-<td>https://open.kattis.com/problems/sunandmoon</td>
-</tr>
-
-<tr>
-<td>Sóttkví</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/sottkvi</td>
-</tr>
-
-<tr>
-<td>T9 Spelling</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/t9spelling</td>
-</tr>
-
-<tr>
-<td>Take Two Stones</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/twostones</td>
-</tr>
-
-<tr>
-<td>Tarifa</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/tarifa</td>
-</tr>
-
-<tr>
-<td>Temperature Confusion</td>
-<td>2.8</td>
-<td>https://open.kattis.com/problems/temperatureconfusion</td>
-</tr>
-
-<tr>
-<td>Tetration</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/tetration</td>
-</tr>
-
-<tr>
-<td>The Amazing Human Cannonball</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/humancannonball2</td>
-</tr>
-
-<tr>
-<td>The Easiest Problem Is This One</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/easiest</td>
-</tr>
-
-<tr>
-<td>The Last Problem</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/thelastproblem</td>
-</tr>
-
-<tr>
-<td>The Plank</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/theplank</td>
-</tr>
-
-<tr>
-<td>This Ain't Your Grandpa's Checkerboard</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/thisaintyourgrandpascheckerboard</td>
-</tr>
-
-<tr>
-<td>Title Cost</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/titlecost</td>
-</tr>
-
-<tr>
-<td>Tower Construction</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/tornbygge</td>
-</tr>
-
-<tr>
-<td>Transit Woes</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/transitwoes</td>
-</tr>
-
-<tr>
-<td>Triangle Area</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/triarea</td>
-</tr>
-
-<tr>
-<td>Trik</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/trik</td>
-</tr>
-
-<tr>
-<td>Triple Texting</td>
-<td>1.8</td>
-<td>https://open.kattis.com/problems/tripletexting</td>
-</tr>
-
-<tr>
-<td>Troll Hunt</td>
-<td>2.6</td>
-<td>https://open.kattis.com/problems/trollhunt</td>
-</tr>
-
-<tr>
-<td>Turn It Up!</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/skruop</td>
-</tr>
-
-<tr>
-<td>Two-sum</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/twosum</td>
-</tr>
-
-<tr>
-<td>Tölvunarfræðingar telja</td>
-<td>1.2</td>
-<td>https://open.kattis.com/problems/tolvunarfraedingartelja</td>
-</tr>
-
-<tr>
-<td>Ultimate Binary Watch</td>
-<td>1.8</td>
-<td>https://open.kattis.com/problems/ultimatebinarywatch</td>
-</tr>
-
-<tr>
 <td>Undead or Alive</td>
 <td>1.4</td>
 <td>https://open.kattis.com/problems/undeadoralive</td>
@@ -821,6 +1823,12 @@ while preparing for competitive programming competitions.
 <td>Unique Dice</td>
 <td>5.1</td>
 <td>https://open.kattis.com/problems/uniquedice</td>
+</tr>
+
+<tr>
+<td>Vauvau</td>
+<td>2.0</td>
+<td>https://open.kattis.com/problems/vauvau</td>
 </tr>
 
 <tr>
@@ -899,604 +1907,4 @@ while preparing for competitive programming competitions.
 <td>Úllen dúllen doff</td>
 <td>1.6</td>
 <td>https://open.kattis.com/problems/ullendullendoff</td>
-</tr>
-
-<tr>
-<td>3D Printed Statues</td>
-<td>2.8</td>
-<td>https://open.kattis.com/problems/3dprinter</td>
-</tr>
-
-<tr>
-<td>99 Problems</td>
-<td>2.8</td>
-<td>https://open.kattis.com/problems/99problems</td>
-</tr>
-
-<tr>
-<td>A Furious Cocktail</td>
-<td>2.9</td>
-<td>https://open.kattis.com/problems/cocktail</td>
-</tr>
-
-<tr>
-<td>A Multiplication Game</td>
-<td>4.8</td>
-<td>https://open.kattis.com/problems/amultiplicationgame</td>
-</tr>
-
-<tr>
-<td>A Real Challenge</td>
-<td>1.8</td>
-<td>https://open.kattis.com/problems/areal</td>
-</tr>
-
-<tr>
-<td>ASCII kassi</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/asciikassi</td>
-</tr>
-
-<tr>
-<td>Aaah!</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/aaah</td>
-</tr>
-
-<tr>
-<td>Above Average</td>
-<td>2.5</td>
-<td>https://open.kattis.com/problems/aboveaverage</td>
-</tr>
-
-<tr>
-<td>Add Two Numbers</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/addtwonumbers</td>
-</tr>
-
-<tr>
-<td>Adding Trouble</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/addingtrouble</td>
-</tr>
-
-<tr>
-<td>Almost Sorted</td>
-<td>8.4</td>
-<td>https://open.kattis.com/problems/almostsorted2</td>
-</tr>
-
-<tr>
-<td>Alphabet Spam</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/alphabetspam</td>
-</tr>
-
-<tr>
-<td>Amerískur vinnustaður</td>
-<td>1.2</td>
-<td>https://open.kattis.com/problems/ameriskur</td>
-</tr>
-
-<tr>
-<td>Another Candies</td>
-<td>2.8</td>
-<td>https://open.kattis.com/problems/anothercandies</td>
-</tr>
-
-<tr>
-<td>Apaxiaaaaaaaaaaaans!</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/apaxiaaans</td>
-</tr>
-
-<tr>
-<td>Array Smoothening</td>
-<td>2.3</td>
-<td>https://open.kattis.com/problems/arraysmoothening</td>
-</tr>
-
-<tr>
-<td>Autori</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/autori</td>
-</tr>
-
-<tr>
-<td>Average Character</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/averagecharacter</td>
-</tr>
-
-<tr>
-<td>Avion</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/avion</td>
-</tr>
-
-<tr>
-<td>Babelfish</td>
-<td>2.8</td>
-<td>https://open.kattis.com/problems/babelfish</td>
-</tr>
-
-<tr>
-<td>Bachet's Game</td>
-<td>3.7</td>
-<td>https://open.kattis.com/problems/bachetsgame</td>
-</tr>
-
-<tr>
-<td>Backspace</td>
-<td>2.4</td>
-<td>https://open.kattis.com/problems/backspace</td>
-</tr>
-
-<tr>
-<td>Bannorð</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/bannord</td>
-</tr>
-
-<tr>
-<td>Basketball One-on-One</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/basketballoneonone</td>
-</tr>
-
-<tr>
-<td>Batter Up</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/batterup</td>
-</tr>
-
-<tr>
-<td>Bela</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/bela</td>
-</tr>
-
-<tr>
-<td>Betting</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/betting</td>
-</tr>
-
-<tr>
-<td>Biased Standings</td>
-<td>3.9</td>
-<td>https://open.kattis.com/problems/standings</td>
-</tr>
-
-<tr>
-<td>Bijele</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/bijele</td>
-</tr>
-
-<tr>
-<td>Birthday Memorization</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/fodelsedagsmemorisering</td>
-</tr>
-
-<tr>
-<td>Blueberry Waffle</td>
-<td>1.9</td>
-<td>https://open.kattis.com/problems/blueberrywaffle</td>
-</tr>
-
-<tr>
-<td>Boat Parts</td>
-<td>2.0</td>
-<td>https://open.kattis.com/problems/boatparts</td>
-</tr>
-
-<tr>
-<td>Boss Battle</td>
-<td>1.8</td>
-<td>https://open.kattis.com/problems/bossbattle</td>
-</tr>
-
-<tr>
-<td>Bracket Matching</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/bracketmatching</td>
-</tr>
-
-<tr>
-<td>Branch Manager</td>
-<td>5.7</td>
-<td>https://open.kattis.com/problems/branchmanager</td>
-</tr>
-
-<tr>
-<td>Breaking Branches</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/breakingbranches</td>
-</tr>
-
-<tr>
-<td>Building Pyramids</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/pyramids</td>
-</tr>
-
-<tr>
-<td>CPR Number</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/cprnummer</td>
-</tr>
-
-<tr>
-<td>Canadians, eh?</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/canadianseh</td>
-</tr>
-
-<tr>
-<td>Candy Distribution</td>
-<td>3.9</td>
-<td>https://open.kattis.com/problems/candydistribution</td>
-</tr>
-
-<tr>
-<td>Candy Division</td>
-<td>3.9</td>
-<td>https://open.kattis.com/problems/candydivision</td>
-</tr>
-
-<tr>
-<td>Cetvrta</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/cetvrta</td>
-</tr>
-
-<tr>
-<td>Chanukah Challenge</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/chanukah</td>
-</tr>
-
-<tr>
-<td>Class Field Trip</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/classfieldtrip</td>
-</tr>
-
-<tr>
-<td>Climbing Worm</td>
-<td>2.5</td>
-<td>https://open.kattis.com/problems/climbingworm</td>
-</tr>
-
-<tr>
-<td>Coffee Cup Combo</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/coffeecupcombo</td>
-</tr>
-
-<tr>
-<td>Coin Stacks</td>
-<td>3.8</td>
-<td>https://open.kattis.com/problems/coinstacks</td>
-</tr>
-
-<tr>
-<td>Cold-puter Science</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/cold</td>
-</tr>
-
-<tr>
-<td>Coloring Socks</td>
-<td>2.3</td>
-<td>https://open.kattis.com/problems/color</td>
-</tr>
-
-<tr>
-<td>Conformity</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/conformity</td>
-</tr>
-
-<tr>
-<td>Cornhusker</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/cornhusker</td>
-</tr>
-
-<tr>
-<td>Cosmic Path Optimization</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/cosmicpathoptimization</td>
-</tr>
-
-<tr>
-<td>Count the Vowels</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/countthevowels</td>
-</tr>
-
-<tr>
-<td>Counting Days</td>
-<td>2.5</td>
-<td>https://open.kattis.com/problems/countingdays</td>
-</tr>
-
-<tr>
-<td>Cracking RSA</td>
-<td>2.1</td>
-<td>https://open.kattis.com/problems/crackingrsa</td>
-</tr>
-
-<tr>
-<td>Cryptographer's Conundrum</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/conundrum</td>
-</tr>
-
-<tr>
-<td>Cudoviste</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/cudoviste</td>
-</tr>
-
-<tr>
-<td>Cut in Line</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/cutinline</td>
-</tr>
-
-<tr>
-<td>Cut the Negativity</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/cutthenegativity</td>
-</tr>
-
-<tr>
-<td>Datum</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/datum</td>
-</tr>
-
-<tr>
-<td>Daydreaming Stockbroker</td>
-<td>3.6</td>
-<td>https://open.kattis.com/problems/stockbroker</td>
-</tr>
-
-<tr>
-<td>Daylight Saving Time</td>
-<td>2.3</td>
-<td>https://open.kattis.com/problems/dst</td>
-</tr>
-
-<tr>
-<td>Death Knight Hero</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/deathknight</td>
-</tr>
-
-<tr>
-<td>Detailed Differences</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/detaileddifferences</td>
-</tr>
-
-<tr>
-<td>Dice Cup</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/dicecup</td>
-</tr>
-
-<tr>
-<td>Dice Game</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/dicegame</td>
-</tr>
-
-<tr>
-<td>Digit Product</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/sifferprodukt</td>
-</tr>
-
-<tr>
-<td>Digit Swap</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/digitswap</td>
-</tr>
-
-<tr>
-<td>Divvying Up</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/divvyingup</td>
-</tr>
-
-<tr>
-<td>Double Password</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/doublepassword</td>
-</tr>
-
-<tr>
-<td>Drunk Vigenère</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/drunkvigenere</td>
-</tr>
-
-<tr>
-<td>Echo Echo Echo</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/echoechoecho</td>
-</tr>
-
-<tr>
-<td>Ekki dauði opna inni</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/ekkidaudi</td>
-</tr>
-
-<tr>
-<td>Election Paradox</td>
-<td>1.9</td>
-<td>https://open.kattis.com/problems/electionparadox</td>
-</tr>
-
-<tr>
-<td>Eligibility</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/eligibility</td>
-</tr>
-
-<tr>
-<td>Encoded Message</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/encodedmessage</td>
-</tr>
-
-<tr>
-<td>Erase Securely</td>
-<td>1.7</td>
-<td>https://open.kattis.com/problems/erase</td>
-</tr>
-
-<tr>
-<td>Exam</td>
-<td>2.2</td>
-<td>https://open.kattis.com/problems/exam</td>
-</tr>
-
-<tr>
-<td>Expected Earnings</td>
-<td>1.9</td>
-<td>https://open.kattis.com/problems/expectedearnings</td>
-</tr>
-
-<tr>
-<td>Eye of Sauron</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/eyeofsauron</td>
-</tr>
-
-<tr>
-<td>FYI</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/fyi</td>
-</tr>
-
-<tr>
-<td>Fading Wind</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/fadingwind</td>
-</tr>
-
-<tr>
-<td>Faktor</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/faktor</td>
-</tr>
-
-<tr>
-<td>Falling Mugs</td>
-<td>3.7</td>
-<td>https://open.kattis.com/problems/falling</td>
-</tr>
-
-<tr>
-<td>Filip</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/filip</td>
-</tr>
-
-<tr>
-<td>Finding An A</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/findingana</td>
-</tr>
-
-<tr>
-<td>FizzBuzz</td>
-<td>1.4</td>
-<td>https://open.kattis.com/problems/fizzbuzz</td>
-</tr>
-
-<tr>
-<td>Flatbökuveisla</td>
-<td>1.2</td>
-<td>https://open.kattis.com/problems/flatbokuveisla</td>
-</tr>
-
-<tr>
-<td>Flýtibaka</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/flytibaka</td>
-</tr>
-
-<tr>
-<td>Food Processor</td>
-<td>5.4</td>
-<td>https://open.kattis.com/problems/foodprocessor</td>
-</tr>
-
-<tr>
-<td>Forced Choice</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/forcedchoice</td>
-</tr>
-
-<tr>
-<td>Framtíðar FIFA</td>
-<td>1.2</td>
-<td>https://open.kattis.com/problems/fifa</td>
-</tr>
-
-<tr>
-<td>Free Food</td>
-<td>1.6</td>
-<td>https://open.kattis.com/problems/freefood</td>
-</tr>
-
-<tr>
-<td>Friday the 13th</td>
-<td>2.1</td>
-<td>https://open.kattis.com/problems/friday</td>
-</tr>
-
-<tr>
-<td>GCD</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/gcd</td>
-</tr>
-
-<tr>
-<td>GCVWR</td>
-<td>1.3</td>
-<td>https://open.kattis.com/problems/gcvwr</td>
-</tr>
-
-<tr>
-<td>Gandalf's Spell</td>
-<td>2.1</td>
-<td>https://open.kattis.com/problems/gandalfsspell</td>
-</tr>
-
-<tr>
-<td>Goomba Stacks</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/goombastacks</td>
-</tr>
-
-<tr>
-<td>Grade Curving</td>
-<td>4.8</td>
-<td>https://open.kattis.com/problems/gradecurving</td>
-</tr>
-
-<tr>
-<td>Grading</td>
-<td>1.5</td>
-<td>https://open.kattis.com/problems/grading</td>
 </tr>
