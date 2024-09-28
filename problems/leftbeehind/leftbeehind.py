@@ -11,4 +11,3 @@ while True:
         print('To the convention.')
     else:
         print('Undecided.')
-    

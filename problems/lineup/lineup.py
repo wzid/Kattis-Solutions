@@ -1,13 +1,12 @@
 n = int(input())
 
-word = []
-
+l = []
 for i in range(n):
-  word.append(input())
+    l.append(input())
 
-if word == sorted(word):
-  print("INCREASING")
-elif word == sorted(word, reverse=True):
-  print("DECREASING")
+if l == sorted(l):
+    print('INCREASING')
+elif l == sorted(l, reverse=True):
+    print('DECREASING')
 else:
-  print('NEITHER')
+    print('NEITHER')

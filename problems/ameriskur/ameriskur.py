@@ -1,1 +1,3 @@
-print(int(input()) * .09144)
+n = int(input())
+
+print(n * 0.09144)

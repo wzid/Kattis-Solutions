@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="theme_dark" lang="en">
 <head>
     <!-- Load sentry as early as possible -->
-            <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" src="https://js.sentry-cdn.com/1ad5e9767ad243d396a93ef40135e743.min.js" crossorigin="anonymous" data-lazy="no"></script>
+            <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="https://js.sentry-cdn.com/1ad5e9767ad243d396a93ef40135e743.min.js" crossorigin="anonymous" data-lazy="no"></script>
 
-    <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" type="module">
+    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module">
         Sentry.onLoad(function() {
             Sentry.init({
                 dsn: "https://1ad5e9767ad243d396a93ef40135e743:0f66eac85d88443baa349f5bc2497f28@sentry.io/271015",
-                release: "72e4891015873f833a8cbab981e3be1c4f4ab6cd",
+                release: "809088313e30ad8c6807622db4d772d71e4d9219",
                 environment: "edu",
                 whitelistUrls: [
                     /https?:\/\/open\.kattis\.com/                 ],
@@ -33,41 +33,61 @@
     <title>404: Not Found &ndash; Kattis, Kattis</title>
 
     <!-- Jquery and Jquery-ui -->
-    <link href="/assets/4dae4ca509f9a496f941d11c8184df13/jquery-ui-dist/jquery-ui.theme.min.css" rel="stylesheet">
-    <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" src="/assets/4dae4ca509f9a496f941d11c8184df13/jquery/dist/jquery.min.js"></script>
-    <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" src="/assets/4dae4ca509f9a496f941d11c8184df13/jquery-ui-dist/jquery-ui.min.js"></script>
+    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/jquery-ui-dist/jquery-ui.theme.min.css" rel="stylesheet">
+    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/jquery/dist/jquery.min.js"></script>
+    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/jquery-ui-dist/jquery-ui.min.js"></script>
 
     <!-- Timezone Cookie -->
-    <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" type="module" src="/js/ba40e299193c33ec6c54bf8b96d139ff/modules/timezone.js"></script>
+    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module" src="/js/8387c3aaaa386c6c5ab7b06bbd2d0b3d/modules/timezone.js"></script>
 
     <!-- Fonts/Icons -->
-    <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 
-            <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/merriweather/300.css" rel="stylesheet">
-        <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/merriweather/300-italic.css" rel="stylesheet">
-            <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/merriweather/400.css" rel="stylesheet">
-        <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/merriweather/400-italic.css" rel="stylesheet">
-            <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/merriweather/700.css" rel="stylesheet">
-        <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/merriweather/700-italic.css" rel="stylesheet">
-                <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/300.css" rel="stylesheet">
-        <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/300-italic.css" rel="stylesheet">
-            <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/400.css" rel="stylesheet">
-        <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/400-italic.css" rel="stylesheet">
-            <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/500.css" rel="stylesheet">
-        <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/500-italic.css" rel="stylesheet">
-            <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/700.css" rel="stylesheet">
-        <link href="/assets/4dae4ca509f9a496f941d11c8184df13/@fontsource/ubuntu/700-italic.css" rel="stylesheet">
+            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/300.css" rel="stylesheet">
+        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/300-italic.css" rel="stylesheet">
+            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/400.css" rel="stylesheet">
+        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/400-italic.css" rel="stylesheet">
+            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/700.css" rel="stylesheet">
+        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/700-italic.css" rel="stylesheet">
+                <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/300.css" rel="stylesheet">
+        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/300-italic.css" rel="stylesheet">
+            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/400.css" rel="stylesheet">
+        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/400-italic.css" rel="stylesheet">
+            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/500.css" rel="stylesheet">
+        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/500-italic.css" rel="stylesheet">
+            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/700.css" rel="stylesheet">
+        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/700-italic.css" rel="stylesheet">
     
     <!-- DateRangePicker CSS -->
-    <link href="/assets/4dae4ca509f9a496f941d11c8184df13/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
 
     <!-- Editable and Select2 -->
-    <link href="/assets/4dae4ca509f9a496f941d11c8184df13/select2/dist/css/select2.css" rel="stylesheet">
+    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/select2/dist/css/select2.css" rel="stylesheet">
 
-    <link rel="shortcut icon" href="/favicon" />
-
+            <link rel="apple-touch-icon-precomposed" sizes="57x57"   href="/images/favicon/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/favicon/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72"   href="/images/favicon/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/favicon/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon-precomposed" sizes="60x60"   href="/images/favicon/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/favicon/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon-precomposed" sizes="76x76"   href="/images/favicon/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/favicon/apple-touch-icon-152x152.png">
+        <link rel="icon" type="image/png" href="/images/favicon/favicon-196x196.png" sizes="196x196">
+        <link rel="icon" type="image/png" href="/images/favicon/favicon-96x96.png"   sizes="96x96">
+        <link rel="icon" type="image/png" href="/images/favicon/favicon-32x32.png"   sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/favicon-16x16.png"   sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/favicon-128.png"     sizes="128x128">
+        <link rel="shortcut icon"         href="/images/favicon/favicon.ico">
+        <meta name="application-name"                content="Kattis, Kattis">
+        <meta name="msapplication-TileColor"         content="#FFFFFF">
+        <meta name="msapplication-TileImage"         content="/images/favicon/mstile-144x144.png">
+        <meta name="msapplication-square70x70logo"   content="/images/favicon/mstile-70x70.png">
+        <meta name="msapplication-square150x150logo" content="/images/favicon/mstile-150x150.png">
+        <meta name="msapplication-wide310x150logo"   content="/images/favicon/mstile-310x150.png">
+        <meta name="msapplication-square310x310logo" content="/images/favicon/mstile-310x310.png">
+    
     <!-- Own CSS -->
-    <link rel="stylesheet" href="/css/style.css?88e7fe=">
+    <link rel="stylesheet" href="/css/d2a87f1b79390e6478871d0c3dfebec5/style.css">
     <style type="text/css">           .logo {
          background-color: ;
      }
@@ -80,7 +100,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
 
          </style>
 
-    <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" type="text/javascript">
+    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="text/javascript">
         window.page_loaded_at = new Date();
         jQuery.noConflict();
     </script>
@@ -88,7 +108,8 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
     
 </head>
 
-<body class=""  >
+<body class=" l-body_grid"  >
+
 
 
 
@@ -106,7 +127,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
             <button class="menu_mobile_link" >
                 <i class="fas fa-bars menu_mobile_link_icon"></i>
             </button>
-            <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" type="module" src="/js/ba40e299193c33ec6c54bf8b96d139ff/pages/master/nav.js"></script>
+            <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module" src="/js/8387c3aaaa386c6c5ab7b06bbd2d0b3d/pages/master/nav.js"></script>
         </div>
         <div class="branding_border"></div>
         <div class="page_header-content">
@@ -114,7 +135,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
                 <ul class="main_menu">
                                                                     <li>
                             <a  href="/problems" class="main_menu-item main_menu-item_link  " title="Problems">
-                                                                    <i class="fas fa-brain main_menu-item_icon"></i>
+                                                                    <i class="fas fa-puzzle-piece main_menu-item_icon"></i>
                                                                 <span class="main_menu-item_name ">Problems</span>
                                                             </a>
                         </li>
@@ -175,7 +196,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
     </div>
 </header>
 
-<script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" type="text/javascript">
+<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="text/javascript">
     jQuery(function($) {
         $('.page_header-arrow_expand_collapse').click(function() {
             $('body').toggleClass('header-collapsed');
@@ -183,17 +204,17 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
     });
 </script>
 
-
-
-
-
-<main class="l-offset_main content_padding">
+<div class="l-main_area">
     
+
+    
+    <main class="flex flex-col grow content_padding">
+        
 
 
 
 <div class="top_bar ">
-    <script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" type="module" src="/js/ba40e299193c33ec6c54bf8b96d139ff/pages/master/top_bar.js"></script>
+    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module" src="/js/8387c3aaaa386c6c5ab7b06bbd2d0b3d/pages/master/top_bar.js"></script>
     <div class="branding_border"></div>
             <div class="top_bar-content-wrapper">
             <div class="top_bar-section top_bar-section-large">
@@ -226,21 +247,9 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
                                 <span class="tooltip-arrow"></span>
                                 <div class="tooltip-content tooltip-menu tooltip-top_bar">
                                     <i class="fas fa-times tooltip-close tooltip-top_bar-close"></i>
-                                    <a href="/users/cameron-kauffman" class="image_info static_link"><div class="image_info-image-container"><object data="/images/users/cameron-kauffman?v=3373b24c6372a759e00f8594eadc8dc3" type="image/jpg" alt="Cameron Kauffman" class="image_info-image image_info-image-strip image_info-image-rounded"><div class="image_info-image-overlay image_info-image-overlay-strip">CK</div><div class="image_info-image image_info-image-strip image_info-image-rounded image_info-image-icon"></div></object></div><div class="image_info-text-container"><span class="image_info-text-main image_info-text-main-user">Cameron Kauffman</span><span class="image_info-text-sub"><ul class="image_info-list-sub"><li>Score: 607.6</li><li>Rank: 1192</li></ul></span></div></a>
-                                    <ul class="main_menu profile_menu tooltip-top_bar-item">
-                                                                                    <li>
-                                                <a href="/users/cameron-kauffman/settings" class="main_menu-item main_menu-item_link profile_menu-item">
-                                                    <i class="fas fa-user main_menu-item_icon"></i>Profile settings
-                                                </a>
-                                            </li>
-                                                                                    <li>
-                                                <a href="/users/cameron-kauffman" class="main_menu-item main_menu-item_link profile_menu-item">
-                                                    <i class="fas fa-upload main_menu-item_icon"></i>My submissions
-                                                </a>
-                                            </li>
-                                                                            </ul>
+                                    <a href="/users/cameron-kauffman" class="image_info static_link"><div class="image_info-image-container"><img src="/images/users/cameron-kauffman?v=3373b24c6372a759e00f8594eadc8dc3"alt="Cameron Kauffman"class="image_info-image image_info-image-strip image_info-image-rounded ""/></div><div class="image_info-text-container"><span class="image_info-text-main image_info-text-main-user">Cameron Kauffman</span><span class="image_info-text-sub"><ul class="image_info-list-sub"><li>Score: 776.1</li><li>Rank: 910</li></ul></span></div></a>
                                     <div class="tooltip-top_bar-item logout-container">
-                                        <a href="/logout" class="button button-basic button-block">Log out<i class="fas fa-sign-out-alt button-icon-right"></i></a>
+                                        <a href="/logout" class="button button-basic button-block whitespace-nowrap">Log out<i class="fas fa-sign-out-alt button-icon-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -253,7 +262,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
 
     </div>
 
-    
+        
     
     
 
@@ -270,23 +279,31 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
     </div>
 
 
+    </main>
 
     
 
 
 
+    <footer class="l-footer ">
+        <span class="text-center text-sm">
+        <a href="/info/contact">Contact</a> |
+        <a href="https://status.kattis.com">System Status</a> |
+        <a rel="terms-of-service" href="/info/tos">Terms of Service</a> |
+        <a rel="privacy-policy" href="https://www.kattis.com/policies/privacy_policy.pdf">Privacy Policy</a>
+        </span>
+    </footer>
 
-</main>
+</div>
 
 
 
-<script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" src="/assets/4dae4ca509f9a496f941d11c8184df13/moment/min/moment.min.js"></script>
-<script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" src="/assets/4dae4ca509f9a496f941d11c8184df13/bootstrap-daterangepicker/daterangepicker.js"></script>
-<script nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" src="/assets/4dae4ca509f9a496f941d11c8184df13/select2/dist/js/select2.full.min.js"></script>
+<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/moment/min/moment.min.js"></script>
+<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/select2/dist/js/select2.full.min.js"></script>
 
 
 
-
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" nonce="4636c093adf5a246bb719ad51e13e0d6fe802ad735cf31b44ac967f40d9d5948" data-cf-beacon='{"rayId":"8286a7d08f4353c2","b":1,"version":"2023.10.0","token":"6651308a007d4d459b12876077322bfb"}' crossorigin="anonymous"></script>
+        <script defer nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="https://status.kattis.com/embed/script.js"></script>
 </body>
 </html>

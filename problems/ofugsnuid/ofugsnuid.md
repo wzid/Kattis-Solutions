@@ -1,4 +1,4 @@
-# Reverse
+# Öfugsnúið
 
 <table>
     <tr>
@@ -7,11 +7,11 @@
     </tr>
     <tr>
         <td>Diffulty</td>
-        <td>1.6</td>
+        <td>1.7</td>
     </tr>
     <tr>
         <td>Acceptance</td>
-        <td>64.2 %</td>
+        <td>61.41 %</td>
     </tr>
     <tr>
         <td>Link</td>

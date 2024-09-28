@@ -3,8 +3,11 @@
 using namespace std;
 
 int main() {
-    int x, y;
-    cin >> x >> y;
-    
-    x < y ? cout << x << ' ' << y << endl : cout << y << ' ' << x << endl;
+    int a, b;
+    cin >> a >> b;
+    if (a < b) {
+        cout << a << ' ' << b;
+    } else {
+        cout << b << ' ' << a;
+    }
 }

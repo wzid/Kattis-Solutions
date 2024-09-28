@@ -1,8 +1,2 @@
-a, b = map(int, input().split())
-
-cuts = a*b
-cuts -=1
-if cuts %2==0:
-    print('Beata')
-else:
-    print('Alf')
+a,b=map(int, input().split())
+print('Alf'if((a*b)-1)%2else'Beata')

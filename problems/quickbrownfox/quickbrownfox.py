@@ -1,15 +1,2 @@
-n = int(input())
-
-for i in range(n):
-    s = input().lower()
-    alpha = 'abcdefghijklmnopqrstuvwxyz'
-    works = []
-    for c in alpha:
-        if c not in s:
-            works.append(c)
-            
-    if not works:
-        print('pangram')
-    else:
-        f =''.join(works)
-        print(f'missing {f}')
+for l in[*open(0)][1:]:
+ print((s:=set(map(chr,range(97,123)))-set(l.lower()))and'missing '+''.join(sorted(s))or'pangram')

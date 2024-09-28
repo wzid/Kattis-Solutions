@@ -1,18 +1,19 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
-
-bool isVowel(char c) {
-    return c == 'a' || c == 'i' || c == 'o' || c == 'u' || c == 'e';
-}
 
 int main() {
     string s;
     getline(cin, s);
-    int sum = 0;
-    for (char c : s) {
-        sum += isVowel(tolower(c));
+    int count = 0;
+    char arr[] = {'a', 'e', 'i', 'o', 'u'};
+    for (int i = 0; i < s.size(); i++) {
+        for (char c : arr) {
+            if (tolower(s[i]) == c) {
+                count += 1;
+            }
+        }
     }
-    
-    cout << sum << endl;
+    cout << count << endl;
 }

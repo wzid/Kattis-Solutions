@@ -1,27 +1,19 @@
-import sys
 n = int(input())
 
-last = input()
-should = True
-absent = []
-for line in sys.stdin:
-    line = line.rstrip()
-    if should:
-        if line == 'Present!':
-            should = False
-        else:
-            absent.append(last)
-            last = line
-    else:
-        should = True
-        last = line
-    
-if should:
-    absent.append(last)
 
+last = ''
+other = []
+for i in range(n):
+    s = input()
+    if last != '' and s != 'Present!' and last != 'Present!':
+        other.append(last)
+    last = s
+if last != 'Present!':
+    other.append(last)
 
-if absent:
-    for v in absent:
+if other:
+    for v in other:
         print(v)
 else:
     print('No Absences')
+        
