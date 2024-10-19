@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td>Category</td>
-        <td>Easy</td>
+        <td>N/A</td>
     </tr>
     <tr>
         <td>Diffulty</td>
@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td>Acceptance</td>
-        <td>86.02 %</td>
+        <td>84.4 %</td>
     </tr>
     <tr>
         <td>Link</td>

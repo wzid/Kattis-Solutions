@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
@@ -7,19 +6,20 @@ int main() {
     int x, y, n;
     cin >> x >> y >> n;
     
+    string s;
     for (int i = 1; i <= n; i++) {
-        string output = "";
+        s = "";
         if (i % x == 0) {
-            output += "Fizz";
+            s += "Fizz";
         }
         if (i % y == 0) {
-            output += "Buzz";
+            s += "Buzz";
         }
         
-        if (output.size() == 0) {
+        if (!s.length()) {
             cout << i << endl;
         } else {
-            cout << output << endl;
+            cout << s << endl;
         }
     }
 }

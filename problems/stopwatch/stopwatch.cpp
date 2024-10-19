@@ -6,21 +6,25 @@ int main() {
     int n;
     cin >> n;
     bool stopped = true;
-    int lastStart = 0;
-    int time = 0;
+    int last = 0;
+    int sum = 0;
+    
+    if (n % 2 != 0) {
+        cout << "still running" << endl;
+        return 0;
+    }
+    
     for (int i = 0; i < n; i++) {
         int x;
         cin >> x;
-        if (stopped == false) {
-            time += x - lastStart;
+        
+        if (stopped) {
+            last = x;
         } else {
-            lastStart = x;
+            sum = sum + (x - last);
         }
         stopped = !stopped;
     }
-    if (stopped) {
-        cout << time << endl;
-    } else {
-        cout << "still running" << endl;
-    }
+    
+    cout << sum << endl;
 }

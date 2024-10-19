@@ -1,16 +1,13 @@
+translation = {}
+while (x := input()) != '':
+    a, b = x.split()
+    translation[b] = a
+
 import sys
 
-d = {};space = False
 for line in sys.stdin:
     line = line.strip()
-    if line.strip() == '':
-        space = True
-        continue
-    if not space:
-        m = line.split()
-        d[m[1]] = m[0]
+    if line in translation:
+        print(translation[line])
     else:
-        if line in d:
-            print(d[line])
-        else:
-            print('eh')
+        print('eh')

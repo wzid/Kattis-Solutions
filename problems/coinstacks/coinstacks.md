@@ -3,11 +3,11 @@
 <table>
     <tr>
         <td>Category</td>
-        <td>Medium</td>
+        <td>N/A</td>
     </tr>
     <tr>
         <td>Diffulty</td>
-        <td>3.7</td>
+        <td>3.6</td>
     </tr>
     <tr>
         <td>Acceptance</td>

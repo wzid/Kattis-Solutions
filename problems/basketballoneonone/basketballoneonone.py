@@ -1,33 +1,15 @@
-s = input()
+x = input()
 
-score = [0, 0]
-ten = False
-for i in range(1, len(s), 2):
-    if s[i-1] ==  'A':
-        score[0] += int(s[i])
-    elif s[i - 1] == 'B':
-        score[1] += int(s[i])
+a = 0
+b = 0
+win_by_two = False
+for i in range(0, len(x), 2):
+    team, score = x[i:i+2]
+    score = int(score)
+    
+    if team == 'A':
+        a += score
+    else:
+        b += score
 
-    if score[0] == 10 and score[1] == 10:
-        ten = True
-    elif not ten:
-        if score[0] >= 11:
-            break
-        elif score[1] >= 11:
-            break
-    elif ten:
-        if score[0] - 2 == score[1]:
-            break
-        elif score[1] - 2 == score[0]:
-            break
-
-if not ten:
-    if score[0] >= 11:
-        print('A')
-    elif score[1] >= 11:
-        print('B')
-elif ten:
-    if (score[0] - 2) >= score[1]:
-        print('A')
-    elif (score[1] - 2) >= score[0]:
-        print('B')
+print('A' if a > b else 'B')

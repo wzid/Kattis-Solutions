@@ -2,13 +2,13 @@
 <html class="theme_dark" lang="en">
 <head>
     <!-- Load sentry as early as possible -->
-            <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="https://js.sentry-cdn.com/1ad5e9767ad243d396a93ef40135e743.min.js" crossorigin="anonymous" data-lazy="no"></script>
+            <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" src="https://js.sentry-cdn.com/1ad5e9767ad243d396a93ef40135e743.min.js" crossorigin="anonymous" data-lazy="no"></script>
 
-    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module">
+    <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" type="module">
         Sentry.onLoad(function() {
             Sentry.init({
                 dsn: "https://1ad5e9767ad243d396a93ef40135e743:0f66eac85d88443baa349f5bc2497f28@sentry.io/271015",
-                release: "809088313e30ad8c6807622db4d772d71e4d9219",
+                release: "3bfd716d5c837a7302d91c358c37e56824a53a14",
                 environment: "edu",
                 whitelistUrls: [
                     /https?:\/\/open\.kattis\.com/                 ],
@@ -33,36 +33,36 @@
     <title>404: Not Found &ndash; Kattis, Kattis</title>
 
     <!-- Jquery and Jquery-ui -->
-    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/jquery-ui-dist/jquery-ui.theme.min.css" rel="stylesheet">
-    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/jquery/dist/jquery.min.js"></script>
-    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/jquery-ui-dist/jquery-ui.min.js"></script>
+    <link href="/assets/45ee1c6d5829549ca51118259436e200/jquery-ui-dist/jquery-ui.theme.min.css" rel="stylesheet">
+    <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" src="/assets/45ee1c6d5829549ca51118259436e200/jquery/dist/jquery.min.js"></script>
+    <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" src="/assets/45ee1c6d5829549ca51118259436e200/jquery-ui-dist/jquery-ui.min.js"></script>
 
     <!-- Timezone Cookie -->
-    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module" src="/js/8387c3aaaa386c6c5ab7b06bbd2d0b3d/modules/timezone.js"></script>
+    <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" type="module" src="/js/6e92b8b4b357989c4563333870b49332/modules/timezone.js"></script>
 
     <!-- Fonts/Icons -->
-    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="/assets/45ee1c6d5829549ca51118259436e200/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 
-            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/300.css" rel="stylesheet">
-        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/300-italic.css" rel="stylesheet">
-            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/400.css" rel="stylesheet">
-        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/400-italic.css" rel="stylesheet">
-            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/700.css" rel="stylesheet">
-        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/merriweather/700-italic.css" rel="stylesheet">
-                <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/300.css" rel="stylesheet">
-        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/300-italic.css" rel="stylesheet">
-            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/400.css" rel="stylesheet">
-        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/400-italic.css" rel="stylesheet">
-            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/500.css" rel="stylesheet">
-        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/500-italic.css" rel="stylesheet">
-            <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/700.css" rel="stylesheet">
-        <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/@fontsource/ubuntu/700-italic.css" rel="stylesheet">
+            <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/merriweather/300.css" rel="stylesheet">
+        <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/merriweather/300-italic.css" rel="stylesheet">
+            <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/merriweather/400.css" rel="stylesheet">
+        <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/merriweather/400-italic.css" rel="stylesheet">
+            <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/merriweather/700.css" rel="stylesheet">
+        <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/merriweather/700-italic.css" rel="stylesheet">
+                <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/300.css" rel="stylesheet">
+        <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/300-italic.css" rel="stylesheet">
+            <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/400.css" rel="stylesheet">
+        <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/400-italic.css" rel="stylesheet">
+            <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/500.css" rel="stylesheet">
+        <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/500-italic.css" rel="stylesheet">
+            <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/700.css" rel="stylesheet">
+        <link href="/assets/45ee1c6d5829549ca51118259436e200/@fontsource/ubuntu/700-italic.css" rel="stylesheet">
     
     <!-- DateRangePicker CSS -->
-    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="/assets/45ee1c6d5829549ca51118259436e200/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
 
     <!-- Editable and Select2 -->
-    <link href="/assets/6ca8295fdd320959403ec48ee3c6cbbe/select2/dist/css/select2.css" rel="stylesheet">
+    <link href="/assets/45ee1c6d5829549ca51118259436e200/select2/dist/css/select2.css" rel="stylesheet">
 
             <link rel="apple-touch-icon-precomposed" sizes="57x57"   href="/images/favicon/apple-touch-icon-57x57.png">
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/favicon/apple-touch-icon-114x114.png">
@@ -87,7 +87,7 @@
         <meta name="msapplication-square310x310logo" content="/images/favicon/mstile-310x310.png">
     
     <!-- Own CSS -->
-    <link rel="stylesheet" href="/css/d2a87f1b79390e6478871d0c3dfebec5/style.css">
+    <link rel="stylesheet" href="/css/80df8489d35842c1e00f64f9d7b668b9/style.css">
     <style type="text/css">           .logo {
          background-color: ;
      }
@@ -100,7 +100,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
 
          </style>
 
-    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="text/javascript">
+    <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" type="text/javascript">
         window.page_loaded_at = new Date();
         jQuery.noConflict();
     </script>
@@ -127,7 +127,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
             <button class="menu_mobile_link" >
                 <i class="fas fa-bars menu_mobile_link_icon"></i>
             </button>
-            <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module" src="/js/8387c3aaaa386c6c5ab7b06bbd2d0b3d/pages/master/nav.js"></script>
+            <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" type="module" src="/js/6e92b8b4b357989c4563333870b49332/pages/master/nav.js"></script>
         </div>
         <div class="branding_border"></div>
         <div class="page_header-content">
@@ -196,7 +196,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
     </div>
 </header>
 
-<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="text/javascript">
+<script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" type="text/javascript">
     jQuery(function($) {
         $('.page_header-arrow_expand_collapse').click(function() {
             $('body').toggleClass('header-collapsed');
@@ -214,7 +214,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
 
 
 <div class="top_bar ">
-    <script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" type="module" src="/js/8387c3aaaa386c6c5ab7b06bbd2d0b3d/pages/master/top_bar.js"></script>
+    <script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" type="module" src="/js/6e92b8b4b357989c4563333870b49332/pages/master/top_bar.js"></script>
     <div class="branding_border"></div>
             <div class="top_bar-content-wrapper">
             <div class="top_bar-section top_bar-section-large">
@@ -247,7 +247,7 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
                                 <span class="tooltip-arrow"></span>
                                 <div class="tooltip-content tooltip-menu tooltip-top_bar">
                                     <i class="fas fa-times tooltip-close tooltip-top_bar-close"></i>
-                                    <a href="/users/cameron-kauffman" class="image_info static_link"><div class="image_info-image-container"><img src="/images/users/cameron-kauffman?v=3373b24c6372a759e00f8594eadc8dc3"alt="Cameron Kauffman"class="image_info-image image_info-image-strip image_info-image-rounded ""/></div><div class="image_info-text-container"><span class="image_info-text-main image_info-text-main-user">Cameron Kauffman</span><span class="image_info-text-sub"><ul class="image_info-list-sub"><li>Score: 776.1</li><li>Rank: 910</li></ul></span></div></a>
+                                    <a href="/users/cameron-kauffman" class="image_info static_link"><div class="image_info-image-container"><img src="/images/users/cameron-kauffman?v=3373b24c6372a759e00f8594eadc8dc3"alt="Cameron Kauffman"class="image_info-image image_info-image-strip image_info-image-rounded ""/></div><div class="image_info-text-container"><span class="image_info-text-main image_info-text-main-user">Cameron Kauffman</span><span class="image_info-text-sub"><ul class="image_info-list-sub"><li>Score: 870.1</li><li>Rank: 782</li></ul></span></div></a>
                                     <div class="tooltip-top_bar-item logout-container">
                                         <a href="/logout" class="button button-basic button-block whitespace-nowrap">Log out<i class="fas fa-sign-out-alt button-icon-right"></i></a>
                                     </div>
@@ -298,12 +298,12 @@ div.page-content.clearfix.above-everything.alert.alert-danger div.main-content {
 
 
 
-<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/moment/min/moment.min.js"></script>
-<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/bootstrap-daterangepicker/daterangepicker.js"></script>
-<script nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="/assets/6ca8295fdd320959403ec48ee3c6cbbe/select2/dist/js/select2.full.min.js"></script>
+<script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" src="/assets/45ee1c6d5829549ca51118259436e200/moment/min/moment.min.js"></script>
+<script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" src="/assets/45ee1c6d5829549ca51118259436e200/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" src="/assets/45ee1c6d5829549ca51118259436e200/select2/dist/js/select2.full.min.js"></script>
 
 
 
-        <script defer nonce="a239781c3c336bfc26d7de6e76f16737b3680369c52887abf3cf5177b23f4586" src="https://status.kattis.com/embed/script.js"></script>
+        <script defer nonce="233a04481c9316951a6eb6397275cc1df4648cd4346e8fde2652a42b432a353e" src="https://status.kattis.com/embed/script.js"></script>
 </body>
 </html>

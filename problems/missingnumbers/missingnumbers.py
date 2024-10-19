@@ -1,14 +1,18 @@
 n = int(input())
-letters = set()
+
+expected = 1
+l = []
 for i in range(n):
-  letters.add(int(input()))
+    x = int(input())
+    
+    while x != expected:
+        l.append(expected)
+        expected += 1
+    
+    expected += 1
 
-ma = max(letters)
-found = False
-for i in range(1, ma+1):
-  if i not in letters:
-    found = True
-    print(i)
-
-if not found:
-  print("good job")
+if len(l) == 0:
+    print('good job')
+else:
+    for v in l:
+        print(v)

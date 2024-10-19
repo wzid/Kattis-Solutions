@@ -1,13 +1,17 @@
-n = int(input())
-f = input()
-s = input()
+k = int(input())
 
-su = 0
-for i in range(len(f)):
-    if f[i] == s[i]:
-        su += 1
+yours = input()
+friend = input()
 
-if su:
-    print(su + ((len(s) - su) - abs(su - n)))
+differences = 0
+
+for i in range(len(yours)):
+    if yours[i] != friend[i]:
+        differences += 1
+
+if differences == len(yours) and k > 0:
+    print(len(yours) - k)
+elif differences == len(yours) and k == 0:
+    print(len(yours))
 else:
-    print(len(s) - n)
+    print(len(yours) - abs((len(yours) - differences) - k))

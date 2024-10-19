@@ -1,13 +1,12 @@
-volume = 7
-
 n = int(input())
 
+t = 7
 for i in range(n):
-    c = input()
-    if c == 'Skru op!':
-        if volume != 10:
-            volume += 1
-    elif c == 'Skru ned!':
-        if volume != 0:
-            volume -= 1
-print(volume)
+    x = input()
+    if x == 'Skru op!':
+        if t != 10:
+            t += 1
+    else:
+        if t != 0:
+            t -= 1
+print(t)

@@ -1,0 +1,1 @@
+print(*map(str.capitalize,[*open(0)][1:]))
