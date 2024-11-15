@@ -1,6 +1,6 @@
 import os
 
-from autokattis import Kattis
+from autokattis import OpenKattis
 from dotenv import load_dotenv
 import shutil
 
@@ -12,7 +12,7 @@ extensions = {
 }
 
 # Log in to kattis
-kt = Kattis(os.environ.get("K_USER"), os.environ.get("K_PASS"))
+kt = OpenKattis(os.environ.get("K_USER"), os.environ.get("K_PASS"))
 
 # Delete all previous saved problems
 folder = './problems'

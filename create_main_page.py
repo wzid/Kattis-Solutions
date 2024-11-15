@@ -1,6 +1,6 @@
 import os
 
-from autokattis import Kattis
+from autokattis import OpenKattis
 from dotenv import load_dotenv
 import shutil
 
@@ -36,7 +36,7 @@ tableEnd = """
 """
 
 # Log in to kattis
-kt = Kattis(os.environ.get("K_USER"), os.environ.get("K_PASS"))
+kt = OpenKattis(os.environ.get("K_USER"), os.environ.get("K_PASS"))
 
 with open("README.md", 'w') as obj:
     obj.write("# Cameron's Kattis Problems\n")
